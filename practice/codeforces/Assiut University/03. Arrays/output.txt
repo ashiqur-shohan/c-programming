@@ -1,1 +1,2 @@
-9
+Enter First Value: Enter Second Value: First Value is: 1
+Second Value is: 5
